@@ -56,8 +56,8 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
 
 * [CompTIA Data+ V2](https://www.credly.com/badges/2ba06b9a-a77f-438e-810d-9522ece651da/public_url)
 * [BCS Foundation Certificate in Business Analysis v4.1](https://www.credly.com/badges/6ce21196-03c5-498a-82eb-a4547f90178f/public_url)
-* [Intelligent Decisions with SAP Analytics Cloud(2019 Edition)]
-* [SAP Intelligent Robotic Process Automation In a Nutshell (2019 Edltlon)]
+* Intelligent Decisions with SAP Analytics Cloud(2019 Edition)
+* SAP Intelligent Robotic Process Automation In a Nutshell (2019 Edltlon)
 
 ---
 ### 📚 Currently Learning / In Progress
