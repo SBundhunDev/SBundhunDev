@@ -1,5 +1,5 @@
 
-# Hi, I'm Akshay (Shailendrasingh Bundhun) 👋
+# Hi, I'm S Bundhun 👋
  
 **BI Engineer with 8+ yrs SAP ecosystem delivery for enterprise clients | Turning Python + SQL into clear, decision-ready insights**
  
