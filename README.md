@@ -1,5 +1,5 @@
 
-# Hi, I'm S Bundhun 👋
+# Hi, I'm Shailendrasingh Bundhun 👋
  
 **BI Engineer with 8+ yrs SAP ecosystem delivery for enterprise clients | Turning Python + SQL into clear, decision-ready insights**
  
@@ -21,9 +21,9 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
  
 **SAP:** ![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-0FAAFF?style=flat-square) ![SAP BW](https://img.shields.io/badge/-SAP%20BW-0FAAFF?style=flat-square) ![S/4HANA](https://img.shields.io/badge/-S%2F4HANA-0FAAFF?style=flat-square) ![SAC](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-0FAAFF?style=flat-square) ![BusinessObjects](https://img.shields.io/badge/-SAP%20BusinessObjects-0FAAFF?style=flat-square)
  
-**Data & Analytics:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Data & Analytics:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![pyodbc](https://img.shields.io/badge/-pyodbc-555555?style=flat-square) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
  
-**Visualisation:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+**Visualisation:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
  
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-00C487?style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
  
