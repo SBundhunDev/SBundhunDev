@@ -1,7 +1,7 @@
 
 # Hi, I'm Shailendrasingh Bundhun 👋
  
-**BI Engineer with 8+ yrs SAP ecosystem delivery for enterprise clients | Turning Python + SQL into clear, decision-ready insights**
+**BI Engineer with 5+ yrs SAP ecosystem delivery for enterprise clients | Turning Python + SQL into clear, decision-ready insights**
  
 📍 London, UK &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/shailendrasingh-bundhun/)
  
@@ -9,7 +9,7 @@
  
 ### About Me
  
-I'm a BI Engineer with over 8 years of experience delivering SAP Business Intelligence solutions — SAP HANA, BW, S/4HANA, SAP Analytics Cloud, and BusinessObjects — for Tier 1 enterprise clients across agricultural processing, cosmetics, and construction & energy sectors during my time with **Accenture**. I've led data migrations processing 250M+ records daily, built ETL pipelines, and designed visualisation solutions that cut manual reporting effort by up to 85%.
+I'm a BI Engineer with over 5 years of experience delivering SAP Business Intelligence solutions — SAP HANA, BW, S/4HANA, SAP Analytics Cloud, and BusinessObjects — for Tier 1 enterprise clients across agricultural processing, cosmetics, and construction & energy sectors during my time with **Accenture**. I've led data migrations processing 250M+ records daily, built ETL pipelines, and designed visualisation solutions that cut manual reporting effort by up to 85%.
  
 I'm now expanding that enterprise BI foundation into modern data analytics — currently building hands-on Python and SQL projects, with SAP BW/4HANA and Datasphere upskilling in progress.
  
@@ -54,7 +54,7 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
  
 ###  Background Snapshot
  
--  8+ years in enterprise SAP BI delivery, including 4 years with **Accenture** (Big 4)
+-  5+ years in enterprise SAP BI delivery, including 4 years with **Accenture**
 -  Delivered projects for Tier 1 clients across France (agriculture, cosmetics, construction & energy)
 -  Led data pipelines processing 250M+ records daily at 99.99% data consistency
 -  Founded and ran an independent software consultancy (2020–2023)
