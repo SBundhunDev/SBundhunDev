@@ -61,6 +61,4 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
 -  Multilingual: English, French (professional working proficiency), Hindi, Mauritian Creole
 ---
  
-### 🔗 Let's Connect
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendrasingh-bundhun/)
+
