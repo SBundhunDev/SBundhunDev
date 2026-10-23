@@ -9,9 +9,9 @@
  
 ### About Me
  
-I'm a BI Engineer with over 5 years of experience delivering SAP Business Intelligence solutions — SAP HANA, BW, S/4HANA, SAP Analytics Cloud, and BusinessObjects — for Tier 1 enterprise clients across agricultural processing, cosmetics, and construction & energy sectors during my time with **Accenture**. I've led data migrations processing 250M+ records daily, built ETL pipelines, and designed visualisation solutions that cut manual reporting effort by up to 85%.
+I'm a BI Engineer with over 5 years of experience delivering SAP Business Intelligence solutions - SAP HANA, BW, S/4HANA, SAP Analytics Cloud, and BusinessObjects - for Tier 1 enterprise clients across agricultural processing, cosmetics, and construction & energy sectors during my time with **Accenture**. I've led data migrations processing 250M+ records daily, built ETL pipelines, and designed visualisation solutions that cut manual reporting effort by up to 85%.
  
-I'm now expanding that enterprise BI foundation into modern data analytics — currently building hands-on Python and SQL projects, with SAP BW/4HANA and Datasphere upskilling in progress.
+I'm now expanding that enterprise BI foundation into modern data analytics - currently building hands-on Python and SQL projects, with SAP BW/4HANA and Datasphere upskilling in progress.
  
 This profile is a work in progress as I build out a portfolio of data analyst projects — check back for updates, or get in touch if you'd like to collaborate.
  
@@ -31,7 +31,7 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
  
 ###  Featured Projects
  
-> Portfolio in progress — pinning projects here as they're completed.
+> Portfolio in progress - pinning projects here as they're completed.
  
 | Project | Description | Tech |
 |---|---|---|
@@ -48,7 +48,7 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
 ---
 ###  Currently Learning / In Progress
  
-- **SAP BW/4HANA & SAP Datasphere** — SAP Learning (in progress)
+- **SAP BW/4HANA & SAP Datasphere** - SAP Learning (in progress)
   
 ---
  
