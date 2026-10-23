@@ -13,7 +13,7 @@ I'm a BI Engineer with over 5 years of experience delivering SAP Business Intell
  
 I'm now expanding that enterprise BI foundation into modern data analytics - currently building hands-on Python and SQL projects, with SAP BW/4HANA and Datasphere upskilling in progress.
  
-This profile is a work in progress as I build out a portfolio of data analyst projects — check back for updates, or get in touch if you'd like to collaborate.
+This profile is a work in progress as I build out a portfolio of data analyst projects - check back for updates, or get in touch if you'd like to collaborate.
  
 ---
  
@@ -57,7 +57,7 @@ This profile is a work in progress as I build out a portfolio of data analyst pr
 -  5+ years in enterprise SAP BI delivery, including 4 years with **Accenture**
 -  Delivered projects for Tier 1 clients across France (agriculture, cosmetics, construction & energy)
 -  Led data pipelines processing 250M+ records daily at 99.99% data consistency
--  Founded and ran an independent software consultancy (2020–2023)
+-  Founded and ran an independent software consultancy (2020 – 2023)
 -  Multilingual: English, French (professional working proficiency), Hindi, Mauritian Creole
 ---
  
